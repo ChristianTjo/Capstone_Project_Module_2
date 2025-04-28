@@ -1,3 +1,5 @@
+Link tableau ==> https://public.tableau.com/app/profile/christian.tj/vizzes
+
 # Latar Belakang
 Bangkok adalah salah satu kota dengan perkembangan terpesat, dengan ekonomi yang dinamis dan kemasyarakatan yang terus berkembang di Asia Tenggara. Kota ini sedang berkembang menjadi pusat regional yang dapat menyaingi Singapura dan Hong Kong , Airbnb hadir sebagai platform terdepan bagi wisatawan yang mencari akomodasi dengan biaya terjangkau. Namun, dengan semakin banyaknya jumlah unit, pemilik unit menghadapi tantangan dalam menetapkan harga yang kompetitif, memahami dinamika pasar, dan mengoptimalkan unit mereka untuk memaksimalkan tingkat hunian. Analisis ini memanfaatkan wawasan berbasis data untuk membantu pemilik unit Airbnb di Bangkok dalam menghadapi atau beradaptasi dengan kompleksitas pasar. Dengan menganalisis faktor-faktor utama seperti persaingan lokasi dan distribusi geografis, tren harga, tingkat hunian, dan review dari pelanggan,yang mana tujuan akhirnya untuk memberikan strategi yang dapat ditindaklanjuti bagi pemilik unit untuk meningkatkan listing mereka, menarik lebih banyak tamu, dan meningkatkan pendapatan mereka.
 
